@@ -1,0 +1,19 @@
+{
+  "id": "L1LC03",
+  "title": "Miniature Garden Designer",
+  "subject": "Mathematics",
+  "level": 1,
+  "ilm": "L1LC03",
+  "version": "1.0.3",
+  "runtime": "1.0.2",
+  "maxPoints": 1000,
+  "lo": [
+    "MATH.RATIO.AREA",
+    "MATH.PROPORTION.ALLOCATE",
+    "MATH.RATIO.ANALYSE",
+    "MATH.APPLY.DESIGN"
+  ],
+  "build": "2026-11-20",
+  "sourceFramework": "L1LC01_WeatherStation_v1.0.0",
+  "packageFiles": "All original source framework files retained; project content adapted for the Miniature Garden Designer activity."
+}
